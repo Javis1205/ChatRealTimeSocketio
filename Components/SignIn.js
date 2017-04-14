@@ -7,7 +7,7 @@ import io from 'socket.io-client';
 export default class SignIn extends Component {
     constructor(props){
         super(props);
-        this.socket=io('http://192.168.0.103:3000', {jsonp:false});
+        this.socket=io('https://chatrealtime1205.herokuapp.com/', {jsonp:false});
         let _this = this ;
         this.state = {
             username:'',
