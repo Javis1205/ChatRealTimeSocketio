@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Views/RCTView.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/javis/Desktop/ChatRealTime/node_modules/react-native/React/Views/UIView+React.h
